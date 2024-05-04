@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\bin\Debug\net8.0\Geometrica.exe
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\bin\Debug\net8.0\Geometrica.deps.json
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\bin\Debug\net8.0\Geometrica.runtimeconfig.json
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\bin\Debug\net8.0\Geometrica.dll
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\bin\Debug\net8.0\Geometrica.pdb
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.dll
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\refint\Geometrica.dll
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.pdb
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\Geometrica.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\Guia#1\Geometrica\Geometrica\obj\Debug\net8.0\ref\Geometrica.dll

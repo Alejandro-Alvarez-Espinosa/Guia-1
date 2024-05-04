@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\bin\Debug\net8.0\EnterosNum.exe
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\bin\Debug\net8.0\EnterosNum.deps.json
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\bin\Debug\net8.0\EnterosNum.runtimeconfig.json
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\bin\Debug\net8.0\EnterosNum.dll
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\bin\Debug\net8.0\EnterosNum.pdb
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.dll
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\refint\EnterosNum.dll
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.pdb
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\EnterosNum.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\Guia#1\EnterosNum\EnterosNum\obj\Debug\net8.0\ref\EnterosNum.dll

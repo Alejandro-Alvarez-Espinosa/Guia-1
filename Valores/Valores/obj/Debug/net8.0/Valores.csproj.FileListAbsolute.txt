@@ -1,0 +1,14 @@
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\bin\Debug\net8.0\Valores.exe
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\bin\Debug\net8.0\Valores.deps.json
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\bin\Debug\net8.0\Valores.runtimeconfig.json
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\bin\Debug\net8.0\Valores.dll
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\bin\Debug\net8.0\Valores.pdb
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.AssemblyInfoInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.AssemblyInfo.cs
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.csproj.CoreCompileInputs.cache
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.dll
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\refint\Valores.dll
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.pdb
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\Valores.genruntimeconfig.cache
+C:\Users\ninoa\Desktop\Guia#1\Valores\Valores\obj\Debug\net8.0\ref\Valores.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ninoa\\Desktop\\Guia#1\\EnterosNum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70DF05BC-89A8-4807-8F8A-35ACB573DC08}|EnterosNum\\EnterosNum.csproj|c:\\users\\ninoa\\desktop\\guia#1\\enterosnum\\enterosnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DF05BC-89A8-4807-8F8A-35ACB573DC08}|EnterosNum\\EnterosNum.csproj|solutionrelative:enterosnum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ninoa\\Desktop\\Guia#1\\EnterosNum\\EnterosNum\\Program.cs",
+              "RelativeDocumentMoniker": "EnterosNum\\Program.cs",
+              "ToolTip": "C:\\Users\\ninoa\\Desktop\\Guia#1\\EnterosNum\\EnterosNum\\Program.cs",
+              "RelativeToolTip": "EnterosNum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:34:52.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
